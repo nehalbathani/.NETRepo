@@ -1,0 +1,17 @@
+912810FD TREASURY (CPI) NOTE          0    3.6250 20280415 137.968 0      14714  0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912810FQ TREASURY (CPI) NOTE          0    3.3750 20320415 141.640 0      6704   0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912810FS TREASURY (CPI) NOTE          0    2.0000 20260115 115.312 0      99523  0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912810PZ TREASURY (CPI) NOTE          0    2.5000 20290115 124.296 0      41568  0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912810QF TREASURY (CPI) NOTE          0    2.1250 20400215 126.593 0      11011  0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912810QV TREASURY (CPI) NOTE          0    0.7500 20420215 94.2187 0      7373   0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912810RA TREASURY (CPI) NOTE          0    0.6250 20430215 91      0      13974  0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912810RF TREASURY (CPI) NOTE          0    1.3750 20440215 109.718 0      37783  0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912828C9 TREASURY (CPI) NOTES         0    0.1250 20190415 100.703 0      101566 0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912828EA TREASURY (CPI) NOTE          0    1.8750 20150715 101.453 0      24471  0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912828PP TREASURY (CPI) NOTE          0    1.1250 20210115 105.609 0      21759  0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912828QD TREASURY (CPI) NOTE          0    0.1250 20160415 100.921 0      26955  0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912828QV TREASURY (CPI) NOTE          0    0.6250 20210715 102.812 0      110873 0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912828SQ TREASURY (CPI) NOTE          0    0.1250 20170415 101.453 0      45056  0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912828TE TREASURY (CPI) NOTE          0    0.1250 20220715 98.7656 0      103490 0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912828UX TREASURY (CPI) NOTE          0    0.1250 20180415 101.156 0      128693 0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
+912828VM TREASURY (CPI) NOTE          0    0.3750 20230715 100.062 0      35793  0    G 0        0       0     0 0       0      0        0        0        RRTIPS              
